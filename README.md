@@ -15,3 +15,5 @@ Las herramientas utilizadas para trabajar los datasets son:
 * Knime: https://www.knime.org/downloads/overview
 
 
+### Notas
+
