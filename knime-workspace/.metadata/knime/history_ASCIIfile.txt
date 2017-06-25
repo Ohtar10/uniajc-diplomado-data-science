@@ -1,0 +1,2 @@
+knime://knime.workflow/../../TheData/Basics/adult.csv
+knime://knime.workflow/data.all

@@ -1,0 +1,20 @@
+
+{
+    "version":"3.3.2.v201704041558",
+    "created":"2017-06-24 16:56",
+    "nodestats":{
+        "nodes":[
+        ],
+        "metaNodes":{
+        },
+        "wrappedNodes":{
+        }
+    },
+    "uptime":365439,
+    "workflowsOpened":1,
+    "remoteWorkflowsOpened":1,
+    "launches":2,
+    "timeSinceLastStart":494150,
+    "crashes":0,
+    "properlyShutDown":true
+}
