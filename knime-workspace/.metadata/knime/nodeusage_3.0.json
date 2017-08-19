@@ -706,11 +706,11 @@
             "nrcreated":0
         }
     },
-    "uptime":6615616,
-    "workflowsOpened":16,
+    "uptime":6359162,
+    "workflowsOpened":17,
     "remoteWorkflowsOpened":16,
-    "launches":24,
-    "timeSinceLastStart":9747421,
+    "launches":25,
+    "timeSinceLastStart":204270,
     "crashes":6,
     "properlyShutDown":true
 }

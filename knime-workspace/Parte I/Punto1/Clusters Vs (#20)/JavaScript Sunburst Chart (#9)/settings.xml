@@ -80,7 +80,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="title" type="xstring" value="Titanic Disaster"/>
+<entry key="title" type="xstring" value="Clusters vs Felicidad_General"/>
 <config key="subtitle_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -258,7 +258,7 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
-<entry key="port_object_summary" type="xstring" value="SVG 625 x 577"/>
+<entry key="port_object_summary" type="xstring" value="SVG 625 x 578"/>
 <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
 <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -273,6 +273,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="8d74d6d1-0058-4beb-b575-8a71cf9395f1"/>
+<entry key="file_store_id" type="xstring" value="fbcdacfd-d45d-4b74-8a7c-bf7cf3ada331"/>
 </config>
 </config>

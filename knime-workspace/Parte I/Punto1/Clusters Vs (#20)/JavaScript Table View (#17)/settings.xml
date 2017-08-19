@@ -125,6 +125,10 @@
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Loading model settings failed: String for key &quot;globalDateFormat&quot; not found."/>
+</config>
 <entry key="factory" type="xstring" value="org.knime.js.base.node.viz.pagedTable.PagedTableViewNodeFactory"/>
 <entry key="node-name" type="xstring" value="JavaScript Table View"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME JavaScript Base Views"/>
@@ -160,6 +164,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="fca0bca5-6cd2-4958-8df3-5224b7577670"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>
