@@ -10,7 +10,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="documentColumn" type="xstring" value="Document"/>
+<entry key="documentColumn" type="xstring" value="Preprocessed Document"/>
 <config key="extractorNames_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_stringarray"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -41,12 +41,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 3181, Cols: 13"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 345, Cols: 8"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="eb0d8b5f-c403-415f-a29a-18e01846bdf3"/>
+<entry key="file_store_id" type="xstring" value="99b839df-78c7-4a69-8b15-c1d501904c7c"/>
 </config>
 </config>

@@ -16,21 +16,6 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="Word tokenizer" type="xstring" value="OpenNLP English WordTokenizer"/>
-<config key="CS_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="CS" type="xboolean" value="false"/>
-<config key="Tag_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="Tag" type="xstring" value="PERSON"/>
-<config key="TagType_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="TagType" type="xstring" value="NE"/>
 <config key="Dictionary Column_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -40,12 +25,27 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="SetUnmodifiable" type="xboolean" value="false"/>
+<entry key="SetUnmodifiable" type="xboolean" value="true"/>
+<config key="CS_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="CS" type="xboolean" value="false"/>
 <config key="ExactMatch_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="ExactMatch" type="xboolean" value="true"/>
+<config key="TagType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="TagType" type="xstring" value="NE"/>
+<config key="Tag_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Tag" type="xstring" value="PERSON"/>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="PERSON = positive"/>
@@ -88,6 +88,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" value="filestore"/>
-<entry key="file_store_id" type="xstring" value="e2f3b9d5-f696-46ba-a039-ae50b837a8ff"/>
+<entry key="file_store_id" type="xstring" value="c2d81022-35bf-4722-80f6-4d6f9663e512"/>
 </config>
 </config>

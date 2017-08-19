@@ -16,21 +16,6 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="Word tokenizer" type="xstring" value="OpenNLP English WordTokenizer"/>
-<config key="CS_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="CS" type="xboolean" value="false"/>
-<config key="Tag_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="Tag" type="xstring" value="TIME"/>
-<config key="TagType_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="TagType" type="xstring" value="NE"/>
 <config key="Dictionary Column_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -40,12 +25,27 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="SetUnmodifiable" type="xboolean" value="false"/>
+<entry key="SetUnmodifiable" type="xboolean" value="true"/>
+<config key="CS_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="CS" type="xboolean" value="false"/>
 <config key="ExactMatch_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="ExactMatch" type="xboolean" value="true"/>
+<config key="TagType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="TagType" type="xstring" value="NE"/>
+<config key="Tag_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Tag" type="xstring" value="TIME"/>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="TIME = negative"/>
@@ -88,6 +88,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" value="filestore"/>
-<entry key="file_store_id" type="xstring" value="47afe711-0526-4f28-b9f3-87f60aa82fe0"/>
+<entry key="file_store_id" type="xstring" value="bbae1ef8-4d79-4bee-b9e6-131e9ceb59f4"/>
 </config>
 </config>

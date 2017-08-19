@@ -1,8 +1,8 @@
+file:/tmp/knime_temp_space_knime_16895/8%20-SentimentAnalysis-corrected16912/8%20-SentimentAnalysis-corrected/File%20Reader%20(%23184)/drop/MPQA-OpinionCorpus-NegativeList.csv
+file:/C:/Temp/MPQA-OpinionCorpus-NegativeList.csv
+file:/tmp/knime_temp_space_knime_16895/8%20-SentimentAnalysis-corrected16912/8%20-SentimentAnalysis-corrected/File%20Reader%20(%23183)/drop/MPQA-OpinionCorpus-PositiveList.csv
+file:/C:/Temp/MPQA-OpinionCorpus-PositiveList.csv
 knime://knime.workflow/data.all
-file:/C:/Users/ASUS/Desktop/DIPLOMADO/PROYECTO/problema2v3.txt
 file:/home/knime/workspace/Parte%20II/resources/mpqa-opinioncorpus-negativelist.csv
 file:/home/knime/workspace/Parte%20II/resources/mpqa-opinioncorpus-positivelist.csv
 file:/home/knime/workspace/Parte%20II/datasets/reviews_amazon_instant_video/reviews_Amazon_Instant_Video_5.json/data
-file:/tmp/knime_temp_space_knime_68440/8%20-SentimentAnalysis-corrected68502/8%20-SentimentAnalysis-corrected/File%20Reader%20(%23184)/drop/MPQA-OpinionCorpus-NegativeList.csv
-file:/C:/Temp/MPQA-OpinionCorpus-NegativeList.csv
-file:/tmp/knime_temp_space_knime_68440/8%20-SentimentAnalysis-corrected68502/8%20-SentimentAnalysis-corrected/File%20Reader%20(%23183)/drop/MPQA-OpinionCorpus-PositiveList.csv
