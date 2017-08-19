@@ -15,7 +15,7 @@ RUN apt-get update -y &&  \
 
 ENV TERM=xterm
 
-# Setup gnome desktop environment to get all the libraries to make this look good
+# Setup gnome desktop environment to get all the libraries to make this look good, completely avoidable if image size is a concern (with this would be ~7GB)
 RUN apt-get install -y gnome-shell ubuntu-gnome-desktop
 
 # Copy the knime installer downloaded separately
@@ -36,3 +36,5 @@ ENTRYPOINT ["bash"]
 # docker image build -t <knime_image_tag> .
 # docker container run -it --name knime -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix/ -v <some_folder>:/home/knime/workspace <knime_image_tag>
 # $/home/knime<version>/knime
+
+# docker container run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix/ -v /home/ohtar10/git/uniajc-diplomado-data-science/knime-workspace/:/home/knime/workspace knime

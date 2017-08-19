@@ -22,3 +22,7 @@ internalTables/
 *.tar
 *.zip
 
+datasets/amazon-instant-video/reviews_amazon_instant_video/
+datasets/general-society-survey/Punto_I/
+datasets/general-society-survey/Punto_II/
+datasets/general-society-survey/Punto_III/
