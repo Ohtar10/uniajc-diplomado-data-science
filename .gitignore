@@ -1,1 +1,24 @@
 docker/knime/assets/knime-full_3.3.2.linux.gtk.x86_64.tar.gz
+
+# KNIME files
+.knimeLock
+.project
+.savedWithData
+workflowset.meta
+
+## KNIME directories containing node data
+internal/
+port_*/
+.metadata/
+internalTables/
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
