@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="rowIndices">
+<entry key="array-size" type="xint" value="29"/>
+<entry key="0" type="xint" value="0"/>
+<entry key="1" type="xint" value="0"/>
+<entry key="2" type="xint" value="0"/>
+<entry key="3" type="xint" value="0"/>
+<entry key="4" type="xint" value="0"/>
+<entry key="5" type="xint" value="0"/>
+<entry key="6" type="xint" value="0"/>
+<entry key="7" type="xint" value="0"/>
+<entry key="8" type="xint" value="0"/>
+<entry key="9" type="xint" value="0"/>
+<entry key="10" type="xint" value="0"/>
+<entry key="11" type="xint" value="0"/>
+<entry key="12" type="xint" value="0"/>
+<entry key="13" type="xint" value="0"/>
+<entry key="14" type="xint" value="0"/>
+<entry key="15" type="xint" value="0"/>
+<entry key="16" type="xint" value="0"/>
+<entry key="17" type="xint" value="0"/>
+<entry key="18" type="xint" value="0"/>
+<entry key="19" type="xint" value="0"/>
+<entry key="20" type="xint" value="0"/>
+<entry key="21" type="xint" value="0"/>
+<entry key="22" type="xint" value="0"/>
+<entry key="23" type="xint" value="0"/>
+<entry key="24" type="xint" value="0"/>
+<entry key="25" type="xint" value="0"/>
+<entry key="26" type="xint" value="0"/>
+<entry key="27" type="xint" value="0"/>
+<entry key="28" type="xint" value="0"/>
+</config>
+<config key="columnIndices">
+<entry key="array-size" type="xint" value="29"/>
+<entry key="0" type="xint" value="0"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="2"/>
+<entry key="3" type="xint" value="3"/>
+<entry key="4" type="xint" value="4"/>
+<entry key="5" type="xint" value="5"/>
+<entry key="6" type="xint" value="6"/>
+<entry key="7" type="xint" value="7"/>
+<entry key="8" type="xint" value="8"/>
+<entry key="9" type="xint" value="9"/>
+<entry key="10" type="xint" value="10"/>
+<entry key="11" type="xint" value="11"/>
+<entry key="12" type="xint" value="12"/>
+<entry key="13" type="xint" value="13"/>
+<entry key="14" type="xint" value="14"/>
+<entry key="15" type="xint" value="15"/>
+<entry key="16" type="xint" value="16"/>
+<entry key="17" type="xint" value="17"/>
+<entry key="18" type="xint" value="18"/>
+<entry key="19" type="xint" value="19"/>
+<entry key="20" type="xint" value="20"/>
+<entry key="21" type="xint" value="21"/>
+<entry key="22" type="xint" value="22"/>
+<entry key="23" type="xint" value="23"/>
+<entry key="24" type="xint" value="24"/>
+<entry key="25" type="xint" value="25"/>
+<entry key="26" type="xint" value="26"/>
+<entry key="27" type="xint" value="27"/>
+<entry key="28" type="xint" value="28"/>
+</config>
+<config key="values">
+<entry key="array-size" type="xint" value="29"/>
+<entry key="0" type="xstring" value="Batante feliz"/>
+<entry key="1" type="xstring" value="Boleta c"/>
+<entry key="2" type="xstring" value="Trabajando a tiempo completo"/>
+<entry key="3" type="xstring" value="37 - 54 horas"/>
+<entry key="4" type="xstring" value="Trabajando a tiempo completo"/>
+<entry key="5" type="xstring" value="Madre y padre"/>
+<entry key="6" type="xstring" value="No aplica"/>
+<entry key="7" type="xstring" value="No esta mal en lo absoluto"/>
+<entry key="8" type="xstring" value="Si"/>
+<entry key="9" type="xstring" value="Si"/>
+<entry key="10" type="xstring" value="Si"/>
+<entry key="11" type="xstring" value="2-3 por semana"/>
+<entry key="12" type="xstring" value="Heterosexual"/>
+<entry key="13" type="xstring" value="De acuerdo"/>
+<entry key="14" type="xstring" value="Casado"/>
+<entry key="15" type="xstring" value="Mujer"/>
+<entry key="16" type="xstring" value="Muy feliz"/>
+<entry key="17" type="xstring" value="No es facil"/>
+<entry key="18" type="xstring" value="Muy satisfecho"/>
+<entry key="19" type="xstring" value="Si"/>
+<entry key="20" type="xstring" value="Si"/>
+<entry key="21" type="xstring" value="2"/>
+<entry key="22" type="xstring" value="Siempre mal"/>
+<entry key="23" type="xstring" value="Siempre mal"/>
+<entry key="24" type="xstring" value="Deacuerdo"/>
+<entry key="25" type="xstring" value="Exclusivamente masculino"/>
+<entry key="26" type="xstring" value="Siempre mal"/>
+<entry key="27" type="xstring" value="No aplica"/>
+<entry key="28" type="xstring" value="No"/>
+</config>
+<entry key="rowIdPrefix" type="xstring" value="Row"/>
+<entry key="rowIdSuffix" type="xstring" value=""/>
+<entry key="rowIdStartValue" type="xint" value="0"/>
+<entry key="highlightOutputTable" type="xboolean" value="false"/>
+<config key="columnProperties">
+<config key="0">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Felicidad_general"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="1">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Boleta_de_entrevista"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="2">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Estado_de_la_fuerza_de_trabajo"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="3">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Numero_de_horas_trabajadas_la_semana_pasada"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="4">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Estado_de_la_fuerza_de_trabajo_del_conyuge"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="5">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Vivir_con_los_padres_cuando_tenian_16_años_de_edad"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="6">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Razon_porque_no_vive_con_los_padres"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="7">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Relaciones_homosexuales"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="8">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Vio_peliculas_pornograficas_en_el_año_pasado"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="9">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Fue_1_de_rs_pareja_conyuge_o_regular"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="10">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="El_encuestado_ha_tenido_sexo_con_conocidos_el_año_pasado"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="11">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Frecuencia_de_sexo_durante_el_ultimo_año"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="12">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Orientacion_sexual"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="13">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="La_madre_que_trabaja_no_hace_daño_a_los_niños"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="14">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Estado_civil"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="15">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Genero_de_los_encuestados"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="16">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Felicidad_del_matrimonio"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="17">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Podria_r_encontrar_un_trabajo_igual_de_bueno"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="18">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Trabajo_de_casa"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="19">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Casado_no_quiero_tener_mas_hijos"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="20">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Bajos_ingresos_no_puede_permitirse_mas_niños"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="21">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Numero_ideal_de_niños"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="22">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Sexo_antes_del_matrimonio"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="23">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Sexo_con_otra_persona_que_no_sea_conyuge"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="24">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Favor_de_fuerte_disciplina_del_niño"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="25">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Sexo_con_parejas_sexuales_ultimos_cinco_años"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="26">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Sexo_antes_del_matrimonio_adolescentes_14_16"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="27">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Ha_tenido_sexo_con_personas_distintas_del_conyuge_durnte_matrimo"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="28">
+<entry key="UserSetValues" type="xboolean" value="true"/>
+<entry key="MissValuePattern" type="xstring" value=""/>
+<entry key="FormatParameter" type="xstring" isnull="true" value=""/>
+<entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
+<entry key="SkipThisColumn" type="xboolean" value="false"/>
+<entry key="ColumnName" type="xstring" value="Alguna_vez_se_ha_divorciado_o_separado"/>
+<config key="ColumnClass">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.io.tablecreator.TableCreator2NodeFactory"/>
+<entry key="node-name" type="xstring" value="Table Creator"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.4.0.v201707071451"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.4.0.v201707101013"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Table Creator"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>
